@@ -1,0 +1,22 @@
+Done Point No. of Birth site according to sheet.	
+
+9.	   Our Mission page: https://birthpsychology.com/our-mission/		
+	   Responsive issue in footer logos and form not alligned properly. (issue has fixed now)
+
+
+11.    Leadership page: https://birthpsychology.com/our-leadership/  
+       Responsivness done both on mobile and ipad view.
+
+
+19.    Volunteer page: https://birthpsychology.com/10lp-get-involved/10-cp-volunteer-with-apppah/   
+   	   Responsiveness issue done.
+
+
+21.    Learning center: https://birthpsychology.com/learning-center/
+       Learn More button issue in responsive view has fixed.
+
+	   
+23.    Become A Member: https://birthpsychology.com/membership/
+       In Progress half done	   
+
+	   
